@@ -1,0 +1,68 @@
+body {
+    background-color: #282C34;
+    color: white;
+    font-family: 'Krona One', sans-serif;
+    text-align: center;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    }
+
+    h1 {color: aliceblue;
+    font-size: 40px;
+    }
+
+    strong {color: #22D4FD;
+    }
+    
+    p {color: aliceblue;
+    font-size: 20px;
+    text-align: center;
+    } 
+
+    a {
+    color: #22D4FD;
+    text-decoration: none;
+    }
+
+   header {
+    background-color: #20232A; 
+    padding: 20px;
+    } 
+
+    main {
+    margin: 20px;  
+    flex: 1;
+    }
+
+    footer {
+    background-color: #20232A;  
+    padding: 10px;                                      
+    bottom: 0;
+    width: 100%;
+    }
+
+
+
+    .botao {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;  
+    background-color: #22D4FD;
+    color: white;
+    }
+
+
+    .botao:hover {
+  background-color: #005fa3;
+    }
+
+    li {
+      display: flex;
+      align-items: center;
+      margin-bottom: 2px; 
+    }
+    
+
+
+
